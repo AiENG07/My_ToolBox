@@ -1,0 +1,63 @@
+2025-04-02 15:29:12,773 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search\查找大文件(WizTree)2.01汉化便携版.exe" 
+2025-04-02 15:29:34,900 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\infoscan\leiying\SnowShadow_v1.0" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\infoscan\leiying\SnowShadow_v1.0\SnowShadow.exe" 
+2025-04-02 15:34:32,182 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search\查找大文件(WizTree)2.01汉化便携版.exe" 
+2025-04-02 15:39:54 - __main__ - INFO - main2.run_with_environment:180 - 执行命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search\查找大文件(WizTree)2.01汉化便携版.exe" 
+2025-04-02 15:40:49 - __main__ - INFO - main2.run_with_environment:180 - 执行命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\EnAndDe" && cmd /c "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\EnAndDe\BE-BerylEnigma.exe" 
+2025-04-02 15:41:11 - __main__ - INFO - main2.run_with_environment:180 - 执行命令: start cmd /k "cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\ruoji" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Python\Python38\python.exe" "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\ruoji\webshell_bypass_5.1.py" "
+2025-04-02 15:41:16 - __main__ - INFO - main2.run_with_environment:180 - 执行命令: start cmd /k "cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\ruoji" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Python\Python38\python.exe" "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\ruoji\webshell_bypass_5.1.py" "
+2025-04-02 15:41:22 - __main__ - ERROR - main2.run_with_environment:183 - 执行工具时出错: expected str, bytes or os.PathLike object, not NoneType
+2025-04-02 15:42:45,037 - ERROR - 执行工具时出错: expected str, bytes or os.PathLike object, not NoneType
+2025-04-02 15:46:48,302 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\webshell\AntSword\AntSword\AntSword-Loader-v4.0.3-win32-x64" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\webshell\AntSword\AntSword\AntSword-Loader-v4.0.3-win32-x64\AntSword.exe" 
+2025-04-02 15:56:32,973 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya\AniYa.exe" 
+2025-04-02 15:58:48,471 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\SpringBoot" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\SpringBoot\SpringBoot-Scan-GUI.exe" 
+2025-04-02 17:17:01,916 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search\查找大文件(WizTree)2.01汉化便携版.exe" 
+2025-04-02 18:00:10,489 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\day2023" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\day2023\day2023.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-02 18:00:13,983 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya\AniYa.exe" 
+2025-04-02 18:00:16,623 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\apt" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\apt\apt_tools-jar-with-dependencies.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-08 15:05:44,921 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\Jboss" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\Jboss\JavaJboss.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-08 15:06:09,535 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\infoscan\御剑" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\infoscan\御剑\御剑2.exe" 
+2025-04-08 16:01:22,955 - ERROR - 刷新日志时出错: 'gbk' codec can't decode byte 0xb6 in position 169: illegal multibyte sequence
+2025-04-08 16:01:25,629 - ERROR - 刷新日志时出错: 'gbk' codec can't decode byte 0xb6 in position 169: illegal multibyte sequence
+2025-04-08 16:01:28,299 - ERROR - 刷新日志时出错: 'gbk' codec can't decode byte 0xb6 in position 169: illegal multibyte sequence
+2025-04-08 16:01:31,693 - ERROR - 刷新日志时出错: 'gbk' codec can't decode byte 0xb6 in position 169: illegal multibyte sequence
+2025-04-08 16:01:33,622 - ERROR - 刷新日志时出错: 'gbk' codec can't decode byte 0xb6 in position 169: illegal multibyte sequence
+2025-04-08 16:01:37,128 - ERROR - 刷新日志时出错: 'gbk' codec can't decode byte 0xb6 in position 169: illegal multibyte sequence
+2025-04-08 16:38:26,736 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\heartsk" && cmd /c "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\heartsk\HeartsK.bat" 
+2025-04-09 09:27:07,980 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search\查找大文件(WizTree)2.01汉化便携版.exe" -
+2025-04-09 09:53:51,729 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search\查找大文件(WizTree)2.01汉化便携版.exe" -
+2025-04-09 10:06:15,977 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search\查找大文件(WizTree)2.01汉化便携版.exe" 
+2025-04-09 10:14:39,472 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search\查找大文件(WizTree)2.01汉化便携版.exe" 
+2025-04-09 14:26:13,941 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\day2023" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\day2023\day2023.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-09 14:46:54,679 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\Gr33k" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\Gr33k\Gr33k.exe" 
+2025-04-09 15:39:05,773 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search\查找大文件(WizTree)2.01汉化便携版.exe" 
+2025-04-09 15:40:40,088 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya\AniYa.exe" 
+2025-04-09 15:40:43,721 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\apt" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\apt\apt_tools-jar-with-dependencies.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-09 15:41:00,448 - INFO - 使用 start 命令: start cmd /k "cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\infoscan\fscan" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\infoscan\fscan\fscan.exe" "
+2025-04-09 15:44:39,854 - INFO - 使用 start 命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya\AniYa.exe" 
+2025-04-09 16:05:24,964 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\day2023" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\day2023\day2023.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-09 16:07:38,028 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox" && "D:\UNK\Desktop\GitHub\my_toolbox\app.log" 
+2025-04-09 16:07:43,290 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox" && "D:\UNK\Desktop\GitHub\my_toolbox\app.log" 
+2025-04-09 16:08:00,922 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya\AniYa.exe" 
+2025-04-09 16:19:13,292 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\day2023" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\day2023\day2023.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-09 16:19:20,060 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya\AniYa.exe" 
+2025-04-09 17:14:28,700 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\auxtools" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\auxtools\Auxtools.exe" 
+2025-04-09 17:14:36,760 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\Search\查找大文件(WizTree)2.01汉化便携版.exe" 
+2025-04-09 17:57:59,240 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\xray" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\xray\super-xray-1.7-system-jre.exe" 
+2025-04-09 17:58:03,100 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\xray" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\xray\super-xray-1.7-system-jre.exe" 
+2025-04-09 17:58:03,293 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\xray" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\xray\super-xray-1.7-system-jre.exe" 
+2025-04-10 10:01:13,331 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\blue" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\blue\BlueTeamTools.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-10 10:07:03,811 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\infoscan\InScan" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\infoscan\InScan\InScan.exe" 
+2025-04-10 10:09:53,782 - INFO - 使用命令: start cmd /k "cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\infoscan\ehole" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\infoscan\ehole\EHole_windows_amd64.exe" "
+2025-04-10 10:20:54,987 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\OAexp" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\OAexp\weekoa.exe" 
+2025-04-10 10:24:07,009 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\Ruoyi-All-master" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\Ruoyi-All-master\ruoyiVuln.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-10 10:27:27,791 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\Oracle" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\Oracle\oracleShell.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-10 10:29:26,898 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\redis-rogue-server" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\redis-rogue-server\redis.exe" 
+2025-04-10 10:30:43,627 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\ali" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\ali\阿里Key命令执行Tools.exe" 
+2025-04-10 10:31:08,056 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\ali" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\ali\阿里Key命令执行Tools.exe" 
+2025-04-10 10:34:55,699 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\poc2jar-WINDOWS" && "D:\UNK\Desktop\GitHub\my_toolbox\Environment\Java\jdk1.8.0_131\bin\java.exe" -jar "D:\UNK\Desktop\GitHub\my_toolbox\tools\framework\poc2jar-WINDOWS\poc2jar.jar" -noverify -Dfile.encoding=utf-8 -Xmx2048m
+2025-04-10 10:51:16,945 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\supersql" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\supersql\SuperSQLInjection.exe" 
+2025-04-10 10:54:22,758 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\gorailgun" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\gorailgun\gorailgun-normal-1.5.5.exe" 
+2025-04-10 10:55:52,493 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\quasar" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\vultools\quasar\Quasar_zh-CHS.exe" 
+2025-04-10 10:56:47,729 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya\AniYa.exe" 
+2025-04-10 11:40:44,209 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya\AniYa.exe" 
+2025-04-10 11:40:44,457 - INFO - 使用命令: cd "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya" && "D:\UNK\Desktop\GitHub\my_toolbox\tools\other\aniya\AniYa.exe" 

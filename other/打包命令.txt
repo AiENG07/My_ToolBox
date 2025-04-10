@@ -1,0 +1,1 @@
+pyinstaller -F --version-file other/version.txt -i other/favicon.ico -w -n 渗透测试工具箱v0.1.0(内测版) 1_main.py
